@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Veysel Altundağ</h1>
-<h3 align="center">Rust & Operating Systems Enthusiast 🦀💻</h3>
+<h3 align="center">Operating Systems Enthusiast 🦀💻</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🛠️ I’m passionate about **Operating Systems** and **Rust**: building robust, efficient, and modern high-level applications.
+- 🛠️ I’m passionate about **Operating Systems**: building robust, efficient, and modern high-level applications.
 - 👨‍🔬 Always exploring: Kernel development, systems programming, and performance tuning.
 - 🤝 Open to collaborating on OS projects and system-level tools.
 - 📫 How to reach me: [veyselaltundag08@icloud.com](mailto:veyselaltundag@icloud.com)
